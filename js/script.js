@@ -1,0 +1,1 @@
+console.log("Website Donasi Transparan berhasil dimuat.");
